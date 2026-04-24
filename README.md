@@ -5,6 +5,7 @@ A fully **responsive note-taking application** built with modern web technologie
 ## 🚀 Technologies Used
 
 * React
+* Typescript
 * Tailwind CSS
 * react-redux
 * @reduxjs/toolkit
